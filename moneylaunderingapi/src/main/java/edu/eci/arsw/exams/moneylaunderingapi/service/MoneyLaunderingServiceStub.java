@@ -21,4 +21,10 @@ public class MoneyLaunderingServiceStub implements MoneyLaunderingService {
         //TODO
         return null;
     }
+
+    @Override
+    public void CreateAccount(SuspectAccount account) {
+        // TODO Auto-generated method stub
+
+    }
 }
